@@ -1,0 +1,13 @@
+C:\Users\kv111\source\repos\WebAppAngular\WebAppAngular\bin\Debug\netcoreapp2.1\WebAppAngular.deps.json
+C:\Users\kv111\source\repos\WebAppAngular\WebAppAngular\bin\Debug\netcoreapp2.1\WebAppAngular.runtimeconfig.json
+C:\Users\kv111\source\repos\WebAppAngular\WebAppAngular\bin\Debug\netcoreapp2.1\WebAppAngular.runtimeconfig.dev.json
+C:\Users\kv111\source\repos\WebAppAngular\WebAppAngular\bin\Debug\netcoreapp2.1\WebAppAngular.dll
+C:\Users\kv111\source\repos\WebAppAngular\WebAppAngular\bin\Debug\netcoreapp2.1\WebAppAngular.pdb
+C:\Users\kv111\source\repos\WebAppAngular\WebAppAngular\obj\Debug\netcoreapp2.1\WebAppAngular.csproj.CoreCompileInputs.cache
+C:\Users\kv111\source\repos\WebAppAngular\WebAppAngular\obj\Debug\netcoreapp2.1\WebAppAngular.RazorAssemblyInfo.cache
+C:\Users\kv111\source\repos\WebAppAngular\WebAppAngular\obj\Debug\netcoreapp2.1\WebAppAngular.RazorAssemblyInfo.cs
+C:\Users\kv111\source\repos\WebAppAngular\WebAppAngular\obj\Debug\netcoreapp2.1\WebAppAngular.AssemblyInfoInputs.cache
+C:\Users\kv111\source\repos\WebAppAngular\WebAppAngular\obj\Debug\netcoreapp2.1\WebAppAngular.AssemblyInfo.cs
+C:\Users\kv111\source\repos\WebAppAngular\WebAppAngular\obj\Debug\netcoreapp2.1\WebAppAngular.RazorTargetAssemblyInfo.cache
+C:\Users\kv111\source\repos\WebAppAngular\WebAppAngular\obj\Debug\netcoreapp2.1\WebAppAngular.dll
+C:\Users\kv111\source\repos\WebAppAngular\WebAppAngular\obj\Debug\netcoreapp2.1\WebAppAngular.pdb
